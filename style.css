@@ -72,7 +72,7 @@ html {
 
 
 .part1 {
-    background-image: url('Layer2.png');
+    background-image: url('layer2.png');
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ html {
 }
 
 .part3 {
-    background-image: url('Layer3.png');
+    background-image: url('layer3.png');
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -99,7 +99,7 @@ html {
 }
 
 .part4 {
-    background-image: url('Layer4.png');
+    background-image: url('layer4.png');
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
